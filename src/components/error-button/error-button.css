@@ -1,0 +1,7 @@
+.error-button {
+    background-color: red;
+    width: 250px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-weight: bold;
+}

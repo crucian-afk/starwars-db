@@ -3,6 +3,7 @@
     color: #c06112;
     font-size: 1.2em;
     position: relative;
+    text-align: center;
 }
 .boom {
     font-size: 2em;
@@ -14,5 +15,5 @@
     max-width: 120px;
     display: block;
     position: absolute;
-    left: -143px;
+    left: 13%;
 }

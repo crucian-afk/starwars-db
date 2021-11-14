@@ -1,0 +1,3 @@
+div:focus-visible {
+    outline: 2px dashed #FFFFFF;
+}
